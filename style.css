@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-bottom: 5px;
+    /* font-weight: 900; */
+   
+}
+
+ html,body 
+ {
+    background : url("casper-van-battum-_W_RP9bsJVQ-unsplash.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: "Montserrat";
+    
+}
+
+/* .login-box {
+    height: 200px;
+    background-color: rgba(0, 0, 0, 0.596);
+    opacity: 0.3;
+    border-radius: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    color: black;
+} */
+
+
+
+.card {
+    background-color: rgba(245, 245, 245, 0.4);
+    /* background-color: #31708E99; */
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+    border-radius: 10px;
+    border-color: #687964;
+    color: black;
+    padding : 15px;
+}
+
+.page-header {
+    font-family: "Libre Barcode 128 Text";
+    margin-top: 5%;
+    font-size: 40px;
+}
+
+
+
+
+/* .card-header, .card-footer {
+    opacity: 1;
+} */
+
